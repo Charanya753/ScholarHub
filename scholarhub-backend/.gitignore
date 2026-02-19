@@ -1,0 +1,9 @@
+.env
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+models/
+checkpoints/
+venv/
