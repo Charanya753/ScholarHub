@@ -1,0 +1,9 @@
+next
+react
+react-dom
+typescript
+tailwindcss
+postcss
+autoprefixer
+eslint
+eslint-config-next
